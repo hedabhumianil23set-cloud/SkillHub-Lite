@@ -18,11 +18,14 @@ SkillHub Lite is an Android application developed using **Java** and **XML** in 
 * Android Studio
 * Android SDK
 
-## 📱 APK Download
+## 📱 Download APK
 
-Download and install the APK to test the application:
+You can download and test the Android application using the APK below:
 
-**APK File:** `apk/SkillHubLite.apk`
+👉 **[Download SkillHub Lite APK](https://github.com/hedabhumianil23set-cloud/SkillHub-Lite/raw/main/app-debug.apk)**
+
+> Note: Android may ask for permission to install apps from unknown sources. Allow the permission and proceed with installation.
+
 
 ## 🚀 Future Enhancements
 
