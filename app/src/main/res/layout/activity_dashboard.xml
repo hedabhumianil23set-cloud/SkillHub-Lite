@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0A0A0A">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="SkillHub Dashboard"
+            android:textSize="28sp"
+            android:textStyle="bold"
+            android:textColor="#00FFB3"
+            android:layout_gravity="center"
+            android:layout_marginBottom="30dp"/>
+
+        <Button
+            android:id="@+id/btnAssessment"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="📚 Skill Assessment"
+            android:textColor="#000000"
+            android:backgroundTint="#00FFB3"
+            android:layout_marginBottom="15dp"/>
+
+        <Button
+            android:id="@+id/btnRoadmap"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="🗺 Career Roadmap"
+            android:textColor="#000000"
+            android:backgroundTint="#00FFB3"
+            android:layout_marginBottom="15dp"/>
+
+        <Button
+            android:id="@+id/btnTrending"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="🔥 Trending Skills"
+            android:textColor="#000000"
+            android:backgroundTint="#00FFB3"
+            android:layout_marginBottom="15dp"/>
+
+        <Button
+            android:id="@+id/btnProfile"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:text="👤 Profile"
+            android:textColor="#000000"
+            android:backgroundTint="#00FFB3"/>
+
+    </LinearLayout>
+
+</ScrollView>

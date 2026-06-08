@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#0A0A0A"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="👤 Profile"
+        android:textSize="30sp"
+        android:textColor="#00FFB3"
+        android:textStyle="bold"
+        android:layout_marginBottom="25dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Name: Bhumi Heda"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Role: Android Developer"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Skills: Java, Android, DBMS"
+        android:textColor="#FFFFFF"
+        android:textSize="20sp"
+        android:layout_marginBottom="12dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Skill Score: 75%"
+        android:textColor="#00FFB3"
+        android:textSize="20sp"
+        android:textStyle="bold"/>
+
+</LinearLayout>
